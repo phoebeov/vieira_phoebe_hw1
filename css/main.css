@@ -1,1 +1,6 @@
-body { background-color: red }
+@charset "UTF-8";
+
+.hidden
+{
+  display: none;
+}
